@@ -1,0 +1,4 @@
+/printers       /printers/index.html       200
+/printers/      /printers/index.html       200
+/printers/hp    /printers/hp/index.html    200
+/printers/hp/   /printers/hp/index.html    200
